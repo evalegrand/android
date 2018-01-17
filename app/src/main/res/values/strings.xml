@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">starWarsProject</string>
+    <string name="list">Personnage</string>
+
+    <string name="height"> %1$s </string>
+    <string name="mass"> %1$s </string>
+    <string name="hair_color"> %1$s </string>
+    <string name="skin_color"> %1$s </string>
+    <string name="eye_color"> %1$s </string>
+    <string name="birth_day"> %1$s </string>
+    <string name="gender"> %1$s </string>
+    <string name="homeworld"> %1$s </string>
+    <string name="unknown_error">Unknown error !</string>
+    <string name="status_error">An error occured writing the status</string>
+    <string name="varFemale">female</string>
+</resources>
